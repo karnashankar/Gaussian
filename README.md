@@ -8,22 +8,23 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Using numpy and import sys function start the program
+2. Take inputs in n,a and x
+3. Using nested for loop,write the program for gaussian elimination and print the result using print statement
+4. End the program
 
 ## Program:
 ```
 /*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Program to solve a matrix using Gaussian elimination with partial pivoting.
+Developed by: karna s
+RegisterNumber:22008977  
 */
 ```
+![](program.png)
 
 ## Output:
-![gaussian elimination]()
+![](output.png)
 
 
 ## Result:
